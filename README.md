@@ -10,4 +10,4 @@ Useful tools · Thoughtful interfaces · Learning by building
 
 ---
 
-[Find me on GitHub ↗](https://github.com/wyattkraft7)
+[Find me on GitHub](https://github.com/wyattkraft7)
